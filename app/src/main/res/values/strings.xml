@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UEDControlLite</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="btnEntry">Acceder</string>
+    <string name="btnProfile">Perfil</string>
+    <string name="btnActivities">Actividades programadas</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnRecomendedActivities">Actividades recomendadas</string>
+    <string name="btnChat">Chat</string>
+    <string name="btnPreferences">Preferencias</string>
+    <string name="btnClose">Cerrar sesión</string>
+    <string name="action_sort">Ordenar</string>
+    <string name="btnDatePicker">Seleccionar fecha</string>
+    <string name="txvDetMenu">Detalles del menú</string>
+    <string-array name="sizes">
+        <item >12pt</item>
+        <item >13pt</item>
+        <item >14pt</item>
+        <item >15pt</item>
+    </string-array>
+
+</resources>

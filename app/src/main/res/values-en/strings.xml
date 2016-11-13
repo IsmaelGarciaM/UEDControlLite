@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UEDControlLite</string>
+    <string name="action_sort">Order</string>
+    <string name="btnActivities">Programmed Activities</string>
+    <string name="btnChat">Chat</string>
+    <string name="btnClose">CLose session</string>
+    <string name="btnDatePicker">Select date</string>
+    <string name="btnEntry">Log in</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnPreferences">Preferences</string>
+    <string name="btnProfile">Profile</string>
+    <string name="btnRecomendedActivities">Recommended Activities</string>
+    <string name="dataEmpty">Enter a value</string>
+    <string name="pass">Password</string>
+    <string name="passwordCase">password must contain at least\\none lower case and one upper case</string>
+    <string name="passwordDigit">password must contains at least\\none digit</string>
+    <string name="passwordLength">password must contain at least\\n 8 characters</string>
+    <string name="pref_activate_not">Enable notifications</string>
+    <string name="pref_font_size">Change font size</string>
+    <string name="pref_rememberuser_summary">Indicate if you want to store the user</string>
+    <string name="pref_rememberuser_title">Remember user</string>
+    <string name="txvDetMenu">Menu details</string>
+    <string name="user">User</string>
+</resources>
